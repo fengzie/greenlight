@@ -310,7 +310,7 @@ zh_CN:
     search:
       start: 开始搜索...
   landing:
-    about: "%{href} 是莫高雷会议的简易前端。我们可以创建并主持会议，或通过链接加入其他会议。"
+    about: "Greenlight是莫高雷会议的简易前端。我们可以创建并主持会议，或通过链接加入其他会议。"
     welcome: 欢迎来到莫高雷在线会议系统
     video: 请看使用说明
     upgrade: 告诉我怎么升级到 2.0!
